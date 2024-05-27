@@ -1,4 +1,4 @@
-# ML Pytorch Project Template
+# Python project template
 
 ## Config
 Using template files provided and changing data to corresponding data you can use repository.

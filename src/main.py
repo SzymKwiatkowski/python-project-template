@@ -5,8 +5,10 @@ from utils.helpers import load_config
 
 
 def main(args):
+    """Main executable script"""
     config = load_config(args.config)
     area = config['AREA']
+    print(area)
 
 
 if __name__ == '__main__':
